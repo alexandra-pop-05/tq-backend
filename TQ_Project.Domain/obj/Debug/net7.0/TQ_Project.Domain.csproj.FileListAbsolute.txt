@@ -1,0 +1,14 @@
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\bin\Debug\net7.0\TQ_Project.Domain.deps.json
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\bin\Debug\net7.0\TQ_Project.Domain.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\bin\Debug\net7.0\TQ_Project.Domain.dll
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\bin\Debug\net7.0\TQ_Project.Domain.pdb
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.dll
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\refint\TQ_Project.Domain.dll
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.pdb
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\TQ_Project.Domain.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\tq_project\TQ_Project_v2\TQ_Project.Domain\obj\Debug\net7.0\ref\TQ_Project.Domain.dll
